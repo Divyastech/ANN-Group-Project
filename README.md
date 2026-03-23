@@ -10,6 +10,7 @@ DIVYA JYOTHI P   -01SU24AI027
 
 ## 🔹 Project 1: Perceptron Model
 
+
 ### Objective
 To implement a perceptron model using Python.
 
